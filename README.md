@@ -9,5 +9,6 @@
  5-shouldComponentUpdate()
  6-componentWillUpdate()
  7- componentWillUnmount()
+ ![week-api.png](week-api.png)
  
 
