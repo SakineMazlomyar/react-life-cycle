@@ -1,6 +1,6 @@
- How react lifecycle works with examples?
+### Test code on every react life cycle methods:
 
- 1-ComponentDidMount()
+ ## ComponentDidMount()
  2-componentWillMount()
  3-componentWillReceiveProps()
  4-componentDidUpdate()
