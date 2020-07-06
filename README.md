@@ -10,4 +10,4 @@
  6-componentWillUpdate()
  7- componentWillUnmount()
  
- ./public/week-api.png
+ public/week-api.png
